@@ -4,7 +4,8 @@
 #include "student_id.hpp"
 
 int main() {
-  if(getOptimalValue(Eigen::Matrix3d::Zero())>-1) std::cout<<"loaded"<<std::endl;
-
+  Eigen::Matrix3d state;
+  state<<1,0,0,0,-1,0,0,0,0;
+  std::cout<<"optimal value for state: "<<getOptimalValue(state)<<std::endl;
   return 0;
 }
