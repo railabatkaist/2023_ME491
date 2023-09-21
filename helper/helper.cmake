@@ -1,4 +1,4 @@
-set(CMAKE_PREFIX_PATH ${CMAKE_CURRENT_SOURCE_DIR}/../third_party/Eigen3)
+set(CMAKE_PREFIX_PATH ${CMAKE_CURRENT_SOURCE_DIR}/third_party/Eigen3)
 
 find_package(Eigen3 REQUIRED)
 include_directories (${EIGEN3_INCLUDE_DIRS})
