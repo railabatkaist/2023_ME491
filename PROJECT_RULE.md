@@ -58,28 +58,28 @@ The submission code is shown in the below figure. In the cfg.yaml file, match th
 
 <img src="./figure/submit_iter.png" alt="drawing"/>
 
-| Submission       | Date |
-|------------------|------|
-| Report, code submission  | before the competition |
+| Submission       | Date                                           |
+|------------------|------------------------------------------------|
+| Report, code submission  | 2 days before the competition (Dec 11th 23:59) |
 
 
-[//]: # (Competition)
+Competition
 
-[//]: # (-----)
+-----
 
-[//]: # (We will watch the videos together on Dec 14th at 1pm.)
+We will watch the videos together on Dec 13th at 1pm.
 
-[//]: # (Report)
+Report
 
-[//]: # (-----)
+-----
 
-[//]: # (Final report should contain these contents:)
+Final report should contain these contents:
 
-[//]: # (1. Problem definition &#40;describe the MDP&#41;)
+1. Problem definition (describe the MDP)
 
-[//]: # (2. What algorithms did you use? How do they work &#40;i.e., theory&#41;?)
+2. What algorithms did you use? How do they work (i.e., theory)?
 
-[//]: # (3. Results. What contributed to the final performance the most?)
+3. Results. What contributed to the final performance the most?
 
-[//]: # ()
-[//]: # (The final report should not be more than 4 pages)
+
+The final report should not be more than 4 pages
